@@ -1,0 +1,1 @@
+public class Aluno extends Usuario { private String curso; public Aluno(String nome,String endereco,String curso){ super(nome,endereco); this.curso=curso; } public String getTipo(){ return "Aluno"; } public void exibirDados(){ super.exibirDados(); System.out.println("Curso: "+curso); } }

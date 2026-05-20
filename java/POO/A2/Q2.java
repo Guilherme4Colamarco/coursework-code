@@ -1,0 +1,2 @@
+import java.util.Scanner;
+public class Q2 { public static void main(String[] args){ Scanner in=new Scanner(System.in); System.out.print("Primeiro número: "); double a=in.nextDouble(); System.out.print("Segundo número: "); double b=in.nextDouble(); System.out.println("Soma: "+(a+b)); } }

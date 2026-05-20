@@ -1,0 +1,1 @@
+public class ProgramaFixacao { public static void main(String[] args){ Pessoa p=new Pessoa(); p.nome="Guilherme"; p.idade=25; p.apresentar(); Carro c1=new Carro(); c1.modelo="Gol"; c1.ano=2018; Carro c2=new Carro(); c2.modelo="Onix"; c2.ano=2022; c1.ligar(); c2.ligar(); } }
