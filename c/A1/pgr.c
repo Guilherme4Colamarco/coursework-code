@@ -18,11 +18,11 @@ int main (void)
 
     if (idade>=18)
     {
-        printf("%s, nascido em %s, com a idade %d, ï¿½ maior de idade",nome, cidade, idade );
+        printf("%s, nascido em %s, com a idade %d, é maior de idade",nome, cidade, idade );
     }
     else
     {
-        printf(" %s, nascido em %s, com a idade %d, ï¿½ menor de idade",nome, cidade, idade );
+        printf(" %s, nascido em %s, com a idade %d, é menor de idade",nome, cidade, idade );
     }
 }
 
