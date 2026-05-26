@@ -1,0 +1,122 @@
+
+### aula1.PedeArgumento (com argumento)
+Argumento passado: Teste
+
+### aula1.PedeArgumento (sem argumento)
+Nenhum argumento foi passado.
+
+### aula1.DiferencaPrintPrintln
+Demonstracao da diferenca entre print e println:
+--- Usando println ---
+A palavra 'println' imprime o texto e salta para a proxima linha.
+Esta frase esta em uma nova linha.
+
+--- Usando print ---
+A palavra 'print' imprime o texto e continua na mesma linha. Veja que esta frase continua ao lado.
+
+### aula2.Q1
+Digite um número: O número informado foi 5.0
+
+### aula2.Q2
+Primeiro número: Segundo número: Soma: 5.0
+
+### aula2.Q3
+Nota 1: Nota 2: Nota 3: Nota 4: Média: 8.5
+
+### aula2.Q4
+Metros: Centímetros: 150.0
+
+### aula2.Q5
+Raio: Área: 12.57
+
+### aula2.Q6
+Lado do quadrado: Área: 16.0
+Dobro da área: 32.0
+
+### aula2.Q7
+Ganho por hora: Horas trabalhadas no mês: Salário do mês: R$ 3200.00
+
+### aula2.Q8
+Temperatura em Fahrenheit: Celsius: 37.00
+
+### aula2.Q9
+Temperatura em Celsius: Fahrenheit: 98.60
+
+### aula2.Q10
+Primeiro inteiro: Segundo inteiro: Número real: Dobro do primeiro com metade do segundo: 8.0
+Triplo do primeiro com o terceiro: 9.5
+Terceiro ao cubo: 42.875
+
+### aula2.Q11
+Altura em metros: Peso ideal: 69.23 kg
+
+### aula2.Q12
+Altura em metros: Sexo (H/M): Peso ideal: 57.77 kg
+
+### aula2.Q13
+Peso dos peixes (kg): Excesso: 5.00 kg
+Multa: R$ 20.00
+
+### aula3.Q1MaiorDeDois
+Maior: 9.0
+
+### aula3.Q2PositivoNegativo
+Negativo
+
+### aula3.Q3Sexo
+F - Feminino
+
+### aula3.Q4VogalConsoante
+Vogal
+
+### aula3.Q5MediaAluno
+Aprovado com Distinção
+
+### aula3.Q6MaiorDeTres
+Maior: 5.0
+
+### aula3.Q7MaiorMenorDeTres
+Maior: 5.0
+Menor: 1.0
+
+### aula3.Q8ProdutoMaisBarato
+Compre o produto de R$ 5.0
+
+### aula3.Q9OrdemDecrescente
+5.0 3.0 1.0
+
+### aula3.Q10Turno
+Boa Noite!
+
+### fixacao.ProgramaFixacao
+Olá, meu nome é Guilherme e tenho 25 anos.
+O carro está ligado.
+O carro está ligado.
+
+### heranca.ProgramaPrincipal
+Som genérico de animal / Au au
+Som genérico de animal / Miau
+Som genérico de animal / Muuu
+Gerente: 6000.0
+Estagiário: 1000.0
+Gerente recebe mais
+Veículo acelerando
+Veículo acelerando / Carro acelerando!
+Veículo acelerando / Moto acelerando!
+
+### construtores.ProgramaPrincipal
+Carro: Toyota, ano 2024
+Gerente: Ana, salário R$ 8500.0, departamento Tecnologia
+
+### biblioteca.ProgramaBiblioteca
+Professor: Maria - Rua A, 100
+Departamento: Computação
+Aluno: João - Rua B, 200
+Curso: IA e Ciência de Dados
+Funcionário: Carlos - Rua C, 300
+Cargo: Bibliotecário
+Obra: Java: Como Programar (Livro científico)
+Autor: Deitel - Americana
+Língua: Português
+Mídia: Impresso
+Editora: Pearson, ano 2020

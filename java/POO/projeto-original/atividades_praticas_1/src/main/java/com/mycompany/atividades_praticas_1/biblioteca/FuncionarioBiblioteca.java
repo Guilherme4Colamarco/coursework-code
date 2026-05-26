@@ -1,0 +1,2 @@
+package com.mycompany.atividades_praticas_1.biblioteca;
+public class FuncionarioBiblioteca extends Usuario { private String cargo; public FuncionarioBiblioteca(String nome,String endereco,String cargo){ super(nome,endereco); this.cargo=cargo; } public String getTipo(){ return "Funcionário"; } public void exibirDados(){ super.exibirDados(); System.out.println("Cargo: "+cargo); } }

@@ -1,0 +1,2 @@
+package com.mycompany.atividades_praticas_1.biblioteca;
+public class Exemplar { private Obra obra; private String lingua,midia; private Editora editora; private int anoEdicao; public Exemplar(Obra obra,String lingua,String midia,Editora editora,int anoEdicao){ this.obra=obra; this.lingua=lingua; this.midia=midia; this.editora=editora; this.anoEdicao=anoEdicao; } public void exibirDados(){ obra.exibirDados(); System.out.println("Língua: "+lingua); System.out.println("Mídia: "+midia); System.out.println("Editora: "+editora.getNome()+", ano "+anoEdicao); } }

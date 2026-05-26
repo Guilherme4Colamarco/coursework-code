@@ -20,3 +20,8 @@ ava/
 notes/
 plaud/
 notebooklm_txt/
+
+# NetBeans private configurations
+private/
+**/nbproject/private/
+**/nbproject/config.properties

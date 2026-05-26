@@ -1,0 +1,2 @@
+package com.mycompany.atividades_praticas_1.construtores;
+public class Carro { private String marca; private int ano; public Carro(String marca,int ano){ this.marca=marca; this.ano=ano; } public void mostrarInfo(){ System.out.println("Carro: "+marca+", ano "+ano); } }

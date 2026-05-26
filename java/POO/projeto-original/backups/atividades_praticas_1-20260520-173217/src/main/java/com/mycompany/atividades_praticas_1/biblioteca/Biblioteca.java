@@ -1,0 +1,2 @@
+package com.mycompany.atividades_praticas_1.biblioteca;
+import java.util.*; public class Biblioteca { private List<Usuario> usuarios=new ArrayList<>(); private List<Exemplar> exemplares=new ArrayList<>(); public void cadastrarUsuario(Usuario usuario){ usuarios.add(usuario); } public void cadastrarExemplar(Exemplar exemplar){ exemplares.add(exemplar); } public void listarUsuarios(){ usuarios.forEach(Usuario::exibirDados); } public void listarExemplares(){ exemplares.forEach(Exemplar::exibirDados); } }
