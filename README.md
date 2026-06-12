@@ -1,72 +1,129 @@
-# Guilherme Colamarco | Portfólio
+CURRICULUM – ENGLISH VERSION
 
-Sou estudante e uso este repositório para publicar minha evolução prática em programação.
+Guilherme Amaral Colamarco Resende de Melo
+Uberaba, MG, Brazil
++55 (34) 99921-5966
+guilherme.cola@proton.me
+github.com/Guilherme4Colamarco
 
-Hoje meu foco está em construir base sólida em:
+⸻
 
-- lógica de programação
-- C
-- Java
-- Python
-- projetos simples de terminal
+SUMMARY
 
-## Estado atual
+Artificial Intelligence and Data Science student with practical academic experience in Python, Java, and data analysis. Hands-on experience in machine learning fundamentals, statistical analysis, and business-oriented problem solving.
 
-Este portfólio foi organizado para refletir meu momento real.
+Able to translate business problems into analytical solutions through structured projects, including regression models, data preprocessing, and data storytelling.
 
-Em vez de vender uma imagem artificial de "desenvolvedor pronto", ele mostra:
+Seeking an opportunity to apply technical and analytical skills in real-world scenarios.
 
-- exercícios acadêmicos
-- pequenos projetos funcionais
-- estudos de sintaxe e estrutura
-- evolução visível entre versões mais simples e versões melhores
+⸻
 
-## Destaques
+TECHNICAL SKILLS
 
-Estas são as peças que melhor representam meu estágio atual:
+Programming: Python, Java, C
+Data and Analytics: SQL, Oracle SQL, Data Analysis, Linear Regression
+Tools and Technologies: Git, GitHub, Linux, Windows, AWS basic
+Other: Blender, Krita, Kdenlive
 
-### [C](c/README.md)
-- `atividade7_caixa_eletronico_multiplataforma.c`
-- simulador de caixa eletrônico em terminal
-- prática de menus, validação de entrada e adaptação entre sistemas
+⸻
 
-### [Python](python/README.md)
-- `calculator.py`
-- calculadora simples em terminal
-- prática de fluxo de interação, operações básicas e tratamento simples de erro
+EDUCATION
 
-### [Java](java/README.md)
-- `atividades_praticas_1/`
-- projeto Maven introdutório
-- prática de `Scanner`, organização por classes e estrutura básica de projeto
+Bachelor’s Degree in Artificial Intelligence and Data Science
+UNIUBE – In progress
 
-## Estudos em andamento
+Technical Degree in Computer Graphics integrated with High School
+IFTM – Completed in December 2024
 
-Nem tudo aqui é vitrine principal, e isso é intencional.
+⸻
 
-Também mantenho no repositório:
+PRACTICAL ACADEMIC EXPERIENCE
 
-- exercícios básicos de formação
-- rascunhos de scripts
-- arquivos incompletos que mostram processo de aprendizado
+Hands-on experience in Python and Java programming, including object-oriented programming with classes, attributes, and methods.
 
-Esses materiais ajudam a contar a trajetória, mas não devem ser lidos como projetos finalizados.
+Applied data analysis and business intelligence concepts using linear regression, statistical algorithms, and real datasets such as the Titanic dataset.
 
-## Como navegar
+Experience with data storytelling and analytical reasoning applied to problem solving.
 
-- [Currículo / Curriculum](curriculum/README.md): versões em português e inglês
-- [C](c/README.md): fundamentos de C e o melhor projeto inicial da linguagem
-- [Java](java/README.md): primeiros passos com sintaxe, classes e Maven
-- [Python](python/README.md): scripts de terminal e exercícios de lógica
+Exposure to Big Data, Analytics, Data Mining, and Industry 4.0 concepts, including cyber-physical systems.
 
-## Direção
+Ability to translate business problems into structured exercises and small-scale analytical projects.
 
-Minha tendência atual é sair de exercícios isolados e evoluir para:
+⸻
 
-- projetos mais organizados
-- código com documentação melhor
-- repositórios mais curados por projeto
+LANGUAGES
 
-## Observação
+Portuguese: Native
+English: Intermediate reading comprehension, basic speaking
 
-O desenvolvimento principal acontece no repositório privado `trabalhos`, e o que faz sentido publicar vem para cá depois de revisão.
+⸻
+
+ADDITIONAL INFORMATION
+
+PCD – Low Vision (Stickler Syndrome)
+
+⸻
+
+CURRÍCULO – VERSÃO EM PORTUGUÊS
+
+Guilherme Amaral Colamarco Resende de Melo
+Uberaba, MG, Brasil
++55 (34) 99921-5966
+guilherme.cola@proton.me
+github.com/Guilherme4Colamarco
+
+⸻
+
+RESUMO
+
+Estudante de Inteligência Artificial e Ciência de Dados com experiência prática acadêmica em Python, Java e análise de dados. Possui vivência em fundamentos de machine learning, análise estatística e resolução de problemas com foco em negócio.
+
+Capaz de transformar problemas de negócio em soluções analíticas por meio de projetos estruturados, incluindo modelos de regressão, tratamento de dados e análise de informações.
+
+Busca oportunidade para aplicar conhecimentos técnicos e analíticos em contextos reais.
+
+⸻
+
+COMPETÊNCIAS TÉCNICAS
+
+Programação: Python, Java, C
+Dados e Análise: SQL, Oracle SQL, Análise de Dados, Regressão Linear
+Ferramentas e Tecnologias: Git, GitHub, Linux, Windows, AWS básico
+Outros: Blender, Krita, Kdenlive
+
+⸻
+
+FORMAÇÃO ACADÊMICA
+
+Bacharelado em Inteligência Artificial e Ciência de Dados
+UNIUBE – Em andamento
+
+Curso Técnico em Computação Gráfica integrado ao Ensino Médio
+IFTM – Concluído em dezembro de 2024
+
+⸻
+
+EXPERIÊNCIA ACADÊMICA PRÁTICA
+
+Experiência prática em programação com Python e Java, incluindo programação orientada a objetos com classes, atributos e métodos.
+
+Aplicação de análise de dados e inteligência de negócios utilizando regressão linear, algoritmos estatísticos e bases reais como Titanic.
+
+Desenvolvimento de storytelling com dados e raciocínio analítico aplicado à resolução de problemas.
+
+Contato com Big Data, Analytics, Data Mining e Indústria 4.0, incluindo sistemas ciberfísicos.
+
+Capacidade de transformar problemas de negócio em exercícios estruturados e pequenos projetos analíticos.
+
+⸻
+
+IDIOMAS
+
+Português: Nativo
+Inglês: Leitura intermediária, conversação básica
+
+⸻
+
+INFORMAÇÕES ADICIONAIS
+
+PCD – Baixa visão (Síndrome de Stickler)
