@@ -54,6 +54,7 @@ Esses materiais ajudam a contar a trajetória, mas não devem ser lidos como pro
 
 ## Como navegar
 
+- [Currículo / Curriculum](curriculum/README.md): versões em português e inglês
 - [C](c/README.md): fundamentos de C e o melhor projeto inicial da linguagem
 - [Java](java/README.md): primeiros passos com sintaxe, classes e Maven
 - [Python](python/README.md): scripts de terminal e exercícios de lógica
