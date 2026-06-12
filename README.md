@@ -1,6 +1,6 @@
 # Guilherme Colamarco | Portfólio
 
-Sou estudante e uso este repositório para publicar minha evolução prática em programação.
+Sou estudante de **Inteligência Artificial e Ciência de Dados** e uso este repositório para publicar minha evolução prática em programação.
 
 Hoje meu foco está em construir base sólida em:
 
@@ -8,7 +8,53 @@ Hoje meu foco está em construir base sólida em:
 - C
 - Java
 - Python
+- análise de dados
 - projetos simples de terminal
+
+## Currículo resumido
+
+**Guilherme Amaral Colamarco Resende de Melo**  
+Uberaba, MG, Brasil  
+📧 guilherme.cola@proton.me  
+🔗 [github.com/Guilherme4Colamarco](https://github.com/Guilherme4Colamarco)
+
+### Resumo
+
+Estudante de Inteligência Artificial e Ciência de Dados com experiência prática acadêmica em Python, Java e análise de dados. Tenho vivência em fundamentos de machine learning, análise estatística e resolução de problemas com foco em negócio.
+
+Busco oportunidade para aplicar conhecimentos técnicos e analíticos em contextos reais, transformando problemas em soluções estruturadas por meio de programação, tratamento de dados e raciocínio analítico.
+
+### Competências técnicas
+
+- **Programação:** Python, Java, C
+- **Dados e Análise:** SQL, Oracle SQL, análise de dados, regressão linear
+- **Ferramentas e Tecnologias:** Git, GitHub, Linux, Windows, AWS básico
+- **Outros:** Blender, Krita, Kdenlive
+
+### Formação
+
+**Bacharelado em Inteligência Artificial e Ciência de Dados**  
+UNIUBE – Em andamento
+
+**Curso Técnico em Computação Gráfica integrado ao Ensino Médio**  
+IFTM – Concluído em dezembro de 2024
+
+### Experiência acadêmica prática
+
+- Programação em Python e Java, incluindo programação orientada a objetos com classes, atributos e métodos.
+- Aplicação de análise de dados e inteligência de negócios com regressão linear, algoritmos estatísticos e bases reais como Titanic.
+- Desenvolvimento de storytelling com dados e raciocínio analítico aplicado à resolução de problemas.
+- Contato com Big Data, Analytics, Data Mining e Indústria 4.0, incluindo sistemas ciberfísicos.
+- Transformação de problemas de negócio em exercícios estruturados e pequenos projetos analíticos.
+
+### Idiomas
+
+- **Português:** Nativo
+- **Inglês:** Leitura intermediária, conversação básica
+
+### Informação adicional
+
+PCD – Baixa visão (Síndrome de Stickler)
 
 ## Estado atual
 
@@ -54,7 +100,6 @@ Esses materiais ajudam a contar a trajetória, mas não devem ser lidos como pro
 
 ## Como navegar
 
-- [Currículo / Curriculum](curriculum/README.md): versões em português e inglês
 - [C](c/README.md): fundamentos de C e o melhor projeto inicial da linguagem
 - [Java](java/README.md): primeiros passos com sintaxe, classes e Maven
 - [Python](python/README.md): scripts de terminal e exercícios de lógica
