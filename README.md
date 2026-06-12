@@ -50,7 +50,7 @@ IFTM – Concluído em dezembro de 2024
 ### Idiomas
 
 - **Português:** Nativo
-- **Inglês:** Leitura intermediária, conversação básica
+- **Inglês:** Intermediário
 
 ### Informação adicional
 
