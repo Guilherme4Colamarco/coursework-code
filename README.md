@@ -29,7 +29,7 @@ Other: Blender, Krita, Kdenlive
 
 EDUCATION
 
-Bachelor’s Degree in Artificial Intelligence and Data Science
+Bachelor's Degree in Artificial Intelligence and Data Science
 UNIUBE – In progress
 
 Technical Degree in Computer Graphics integrated with High School
@@ -54,7 +54,7 @@ Ability to translate business problems into structured exercises and small-scale
 LANGUAGES
 
 Portuguese: Native
-English: Intermediate reading comprehension, basic speaking
+English: Intermediate (reading, writing, and conversational)
 
 ⸻
 
@@ -120,7 +120,7 @@ Capacidade de transformar problemas de negócio em exercícios estruturados e pe
 IDIOMAS
 
 Português: Nativo
-Inglês: Leitura intermediária, conversação básica
+Inglês: Intermediário (leitura, escrita e conversação)
 
 ⸻
 
